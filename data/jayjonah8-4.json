@@ -1,0 +1,9 @@
+{
+  "contest": "Timeswap contest",
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "3",
+  "title": "Important state updates are made after the callback in the mint() function ",
+  "issueId": 4,
+  "issueUrl": "https://github.com/code-423n4/2022-01-timeswap-findings/issues/4"
+}
