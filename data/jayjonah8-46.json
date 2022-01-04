@@ -1,0 +1,9 @@
+{
+  "contest": "Timeswap contest",
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "3",
+  "title": "Invalid type \"this\" used in function call could lead to unsuspected breaking behavior ",
+  "issueId": 46,
+  "issueUrl": "https://github.com/code-423n4/2022-01-timeswap-findings/issues/46"
+}
