@@ -1,0 +1,9 @@
+{
+  "contest": "Timeswap contest",
+  "handle": "jah",
+  "address": "0x6ae089D92a2E88CA18a2d463aD32849cB41C4D0f",
+  "risk": "1",
+  "title": "pendingOwner is not set to zero ",
+  "issueId": 9,
+  "issueUrl": "https://github.com/code-423n4/2022-01-timeswap-findings/issues/9"
+}
