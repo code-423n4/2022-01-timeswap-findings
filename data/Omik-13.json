@@ -1,0 +1,9 @@
+{
+  "contest": "Timeswap contest",
+  "handle": "Omik",
+  "address": "0x970A49b663Fc8Db67d36eD62f49B5bd7CB296703",
+  "risk": "3",
+  "title": "The swap shows success, but the tokens did not interact successfully, unable to do tasks, and the game could not be played",
+  "issueId": 13,
+  "issueUrl": "https://github.com/code-423n4/2022-01-timeswap-findings/issues/13"
+}
