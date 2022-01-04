@@ -1,0 +1,9 @@
+{
+  "contest": "Timeswap contest",
+  "handle": "fatima_naz",
+  "address": "0x63A62BDCA68DCA4B98385De493f73C7393b14F6b",
+  "risk": "G",
+  "title": "Use !=0 instead of >0 in require condition to save gas.",
+  "issueId": 41,
+  "issueUrl": "https://github.com/code-423n4/2022-01-timeswap-findings/issues/41"
+}
