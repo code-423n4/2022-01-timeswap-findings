@@ -1,0 +1,9 @@
+{
+  "contest": "Timeswap contest",
+  "handle": "Cashualday",
+  "address": "0x4a4cc2e440C9B2458Ee6ec8df46cbeB1b939B503",
+  "risk": "0",
+  "title": "Borrow can't claim",
+  "issueId": 66,
+  "issueUrl": "https://github.com/code-423n4/2022-01-timeswap-findings/issues/66"
+}
