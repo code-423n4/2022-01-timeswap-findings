@@ -1,0 +1,9 @@
+{
+  "contest": "Timeswap contest",
+  "handle": "bitbopper",
+  "address": "0xe15f11FF2364311E0b7250AaA51A2bB4D7FBA37F",
+  "risk": "G",
+  "title": "TimeswapPair.sol modifier lock: Switching between 1, 2 instead of 0, 1 is more gas efficient",
+  "issueId": 87,
+  "issueUrl": "https://github.com/code-423n4/2022-01-timeswap-findings/issues/87"
+}
