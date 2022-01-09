@@ -1,0 +1,9 @@
+{
+  "contest": "Timeswap contest",
+  "handle": "OriDabush",
+  "address": "0x4bCc7c54E4e8E9a563B92272A51bBFb5d233de32",
+  "risk": "G",
+  "title": "calculate a condition before the loop instead of calculating it in every iteration",
+  "issueId": 126,
+  "issueUrl": "https://github.com/code-423n4/2022-01-timeswap-findings/issues/126"
+}
