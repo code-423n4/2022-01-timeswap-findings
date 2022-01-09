@@ -1,0 +1,9 @@
+{
+  "contest": "Timeswap contest",
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "2",
+  "title": "`TimeswapConvenience.payETHAsset()` allows the user to pay with the contract's own funds",
+  "issueId": 127,
+  "issueUrl": "https://github.com/code-423n4/2022-01-timeswap-findings/issues/127"
+}
