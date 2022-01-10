@@ -1,0 +1,9 @@
+{
+  "contest": "Timeswap contest",
+  "handle": "rfa",
+  "address": "0x95687C27DcE4D413a91A0E1fd0478F4751da8730",
+  "risk": "G",
+  "title": "using storage instead of memory to declare struct variable inside the function",
+  "issueId": 141,
+  "issueUrl": "https://github.com/code-423n4/2022-01-timeswap-findings/issues/141"
+}
