@@ -1,0 +1,9 @@
+{
+  "contest": "Timeswap contest",
+  "handle": "ye0lde",
+  "address": "0x81D4cf8A3892557e4a1571e97b88f0351eF0dcFD",
+  "risk": "G",
+  "title": "Use assignment not += in function mint (TimeswapPair.sol)",
+  "issueId": 136,
+  "issueUrl": "https://github.com/code-423n4/2022-01-timeswap-findings/issues/136"
+}
