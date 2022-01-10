@@ -1,0 +1,9 @@
+{
+  "contest": "Timeswap contest",
+  "handle": "Rhynorater",
+  "address": "0xF84f301891Fe36BAF4B056290B528814dCD83B51",
+  "risk": "G",
+  "title": "Adding Unchecked Directive will Save Gas for BurnMath.sol#getAsset and BurnMath.sol#getCollateral functions",
+  "issueId": 183,
+  "issueUrl": "https://github.com/code-423n4/2022-01-timeswap-findings/issues/183"
+}
