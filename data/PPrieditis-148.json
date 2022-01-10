@@ -1,0 +1,9 @@
+{
+  "contest": "Timeswap contest",
+  "handle": "PPrieditis",
+  "address": "0x855eAb463C41F6Ba5DE353c462878D930d7895Ea",
+  "risk": "0",
+  "title": "TimeswapPair.mint() needs minor refactoring.",
+  "issueId": 148,
+  "issueUrl": "https://github.com/code-423n4/2022-01-timeswap-findings/issues/148"
+}
