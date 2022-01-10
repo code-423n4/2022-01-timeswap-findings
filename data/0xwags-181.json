@@ -1,0 +1,9 @@
+{
+  "contest": "Timeswap contest",
+  "handle": "0xwags",
+  "address": "0x426DC9dCB3C0d6A283268B4bb51AeC48CEB18854",
+  "risk": "1",
+  "title": "LendMath.sol(this contract is not in scope but will affect  TimeswapPair.lend() )",
+  "issueId": 181,
+  "issueUrl": "https://github.com/code-423n4/2022-01-timeswap-findings/issues/181"
+}
